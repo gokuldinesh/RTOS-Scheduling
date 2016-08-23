@@ -1,0 +1,5 @@
+\ls
+pwd
+echo lol
+cat lff.cpp | wc
+cat lff.cpp | head

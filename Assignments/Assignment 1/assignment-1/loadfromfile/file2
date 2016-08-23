@@ -1,0 +1,3 @@
+echo file2
+cat lff.cpp
+ls
